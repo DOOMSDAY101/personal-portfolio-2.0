@@ -211,8 +211,8 @@ function Projects() {
             img: Project11Img,
             tag: ["React"],
             desc: "An updated version of the personal portfolio website, redesigned with React.",
-            githubLink: "https://github.com/DOOMSDAY101/personal-portfolio2.0",
-            projectLink: "https://ifeoluwa-sulaiman.netlify.app",
+            githubLink: "https://github.com/DOOMSDAY101/personal-portfolio-2.0",
+            projectLink: "https://dev-ife.netlify.app/",
         }
     ];
     const [selectedFilters, setSelectedFilters] = useState([]);
