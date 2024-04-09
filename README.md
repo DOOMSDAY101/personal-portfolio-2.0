@@ -17,7 +17,7 @@ This is my personal portfolio website built using React.js. It showcases my skil
 
 ## Live Site
 
-[View Live Site](https://www.your-portfolio-website.com)
+[View Live Site](https://dev-ife.netlify.app/)
 
 ## Credits
 
