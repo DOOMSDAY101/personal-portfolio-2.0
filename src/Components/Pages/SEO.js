@@ -18,7 +18,7 @@ function SEO({ title, description, image }) {
       {
         "@context": "https://schema.org",
         "@type": "Portfolio",
-        "headline": "Ifeoluwa Sulaiman website/Portolio",
+        "headline": "Ifeoluwa Sulaiman",
         "author": {
           "@type": "Person",
           "name": "Ifeoluwa Sulaiman"
@@ -31,7 +31,7 @@ function SEO({ title, description, image }) {
       <title>{title}</title>
       <meta http-equiv="content-language" content="en" />
       <meta name='description' content={description} />
-      <meta name='keywords' content='developer, programmer, website, backend, frontend, web developer, freelancer, fullstack, software, engineer, software engineer, React, Node, SQL, Ifeoluwa, Sulaiman, Ifeoluwa Sulaiman, FullStack developer' />
+      <meta name='keywords' content='Ifeoluwa Sulaiman,dev-ife,developer, programmer, website, backend, frontend, web developer, freelancer, fullstack, software, engineer, software engineer, React, Node, SQL, Ifeoluwa, Sulaiman, Ifeoluwa Sulaiman, FullStack developer' />
       <meta name='author' content='Ifeoluwa Sulaiman' />
       <meta name="robots" content="index,follow" />
 
