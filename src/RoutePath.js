@@ -6,7 +6,7 @@ import Projects from './Components/Pages/Projects';
 import Contact from './Components/Pages/Contact';
 import NotfFound from './Components/Pages/NotfFound';
 import Home from './Components/Pages/Home';
-import SEO from ./components/Pages/SEO;
+import SEO from './Components/Pages/SEO';
 
 function RoutePath() {
     return (
