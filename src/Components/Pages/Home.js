@@ -66,7 +66,7 @@ const dbData = await ref.once('value', (snapshot) => {
 })`
     return (
         <div className="home-intro">
-            <SEO title="IFEOLUWA | Homepage" image={HomePageImg} description="Welcome to my portfolio! I'm a dedicated and passionate fullstack web developer specializing in in crafting stunning and intuitive websites. With expertise in frontend technologies like React, and Javascript, as well as backend frameworks like Node.js, I bring creative designs to life while ensuring seamless functionality and exceptional user experiences. Explore my diverse range of projects to see how I combine innovation, usability, and performance to deliver results. Whether you need a responsive website, custom web application, or eCommerce platform, I'm here to turn your vision into reality. Let's connect and collaborate on your next web development project!" />
+            <SEO title="Ifeoluwa Sulaiman | Homepage" image={HomePageImg} description="Welcome to my portfolio! I'm a dedicated and passionate fullstack web developer specializing in in crafting stunning and intuitive websites. With expertise in frontend technologies like React, and Javascript, as well as backend frameworks like Node.js, I bring creative designs to life while ensuring seamless functionality and exceptional user experiences. Explore my diverse range of projects to see how I combine innovation, usability, and performance to deliver results. Whether you need a responsive website, custom web application, or eCommerce platform, I'm here to turn your vision into reality. Let's connect and collaborate on your next web development project!" />
             <p className='inivicible-h1'>.</p>
             <div className="hero-section">
                 <div className='animate-reveal'>
