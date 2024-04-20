@@ -74,7 +74,7 @@ function SelectAboutOptions({ setDisplayContent, setBioheader }) {
            * Tools: Git, GitHub 🛂
            * 
            * Others:
-           * Deployment: Heroku, Netlify, Vercel 🚀
+           * Deployment: Heroku, Netlify, Vercel, Render 🚀
            * Package Managers: npm 📦
            * CI/CD: GitHub Actions ⚙️
            * API: Postman
