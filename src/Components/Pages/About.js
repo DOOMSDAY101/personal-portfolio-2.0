@@ -78,7 +78,7 @@ function SelectAboutOptions({ setDisplayContent, setBioheader }) {
            * Package Managers: npm 📦
            * CI/CD: GitHub Actions ⚙️
            * API: Postman
-           * Containerizarion: Docker
+           * DevOps: Docker
            * 
            * Soft Skills:
            * Communication 🗣
