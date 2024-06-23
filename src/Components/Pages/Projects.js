@@ -185,7 +185,7 @@ function Projects() {
             tag: ["HTML", "CSS"],
             desc: "A personal portfolio website designed with HTML and CSS.",
             githubLink: "https://github.com/DOOMSDAY101/personal-portfolio",
-            projectLink: "https://ifeoluwa-sulaiman-1.netlify.app",
+            projectLink: "https://ifeoluwa-sulaiman.netlify.app",
         },
         {
             id: "Project 9",
