@@ -140,7 +140,7 @@ function Projects() {
             tag: ["React"],
             desc: "A URL shortening service developed using React.",
             githubLink: "https://github.com/DOOMSDAY101/Url-shortener2.0",
-            projectLink: "https://ifeoluwa-url-shortener-app.netlify.app",
+            projectLink: "https://url-shortener2-0.vercel.app/",
         },
         {
             id: "Project 4",
