@@ -122,7 +122,7 @@ function Projects() {
             tag: ["Javascript"],
             desc: "A web application to track IP addresses developed using JavaScript.",
             githubLink: "https://github.com/DOOMSDAY101/ip-address-tracker",
-            projectLink: "https://ifeoluwa-ip-address-tracker.netlify.app",
+            projectLink: "https://ip-address-tracker-five-amber.vercel.app/",
         },
         {
             id: "Project 2",
