@@ -149,7 +149,7 @@ function Projects() {
             tag: ["Javascript"],
             desc: "A product page for an eCommerce platform, created with JavaScript.",
             githubLink: "https://github.com/DOOMSDAY101/ecommerce-product-page",
-            projectLink: "https://ifeoluwa-ecommerce-page.netlify.app",
+            projectLink: "https://ecommerce-product-page-black-nine.vercel.app/",
         },
         {
             id: "Project 5",
