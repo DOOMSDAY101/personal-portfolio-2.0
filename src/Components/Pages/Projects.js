@@ -158,7 +158,7 @@ function Projects() {
             tag: ["Javascript"],
             desc: "A modern calculator application built using JavaScript.",
             githubLink: "https://github.com/DOOMSDAY101/calculator-app",
-            projectLink: "https://ifeoluwa-calculator-app.netlify.app",
+            projectLink: "https://calculator-app-xi-one.vercel.app",
         },
         {
             id: "Project 6",
