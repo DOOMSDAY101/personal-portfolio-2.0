@@ -167,7 +167,7 @@ function Projects() {
             tag: ["Javascript", "HTML", "CSS"],
             desc: "An advice generating site, developed with HTML, CSS, and JavaScript.",
             githubLink: "https://github.com/DOOMSDAY101/Advice-generator",
-            projectLink: "https://ifeoluwa-advice-generator-app.netlify.app",
+            projectLink: "https://advice-generator-blue-nu.vercel.app/",
         },
         {
             id: "Project 7",
