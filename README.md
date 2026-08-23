@@ -17,7 +17,7 @@ This is my personal portfolio website built using React.js. It showcases my skil
 
 ## Live Site
 
-[View Live Site](https://dev-ife.veercel.app/)
+[View Live Site](https://dev-ife.vercel.app/)
 
 ## Credits
 
